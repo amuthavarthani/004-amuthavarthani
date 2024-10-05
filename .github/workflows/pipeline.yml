@@ -7,8 +7,8 @@ jobs:
       - name: my-step
         run: echo"hello world!"
       - name: department
-        run: b tech aids
+        run: echo "b tech aids"
       - name:  seminar
-        run: ddm seminar
+        run: echo "ddm seminar"
       - name: hw
-        run: maths
+        run: echo "maths"
