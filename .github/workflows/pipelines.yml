@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: my-step
-        run: echo "hello world!"
+        run: echo "hello world! - 711023243004"
       - name: department
         run: echo "b tech aids"
       - name:  seminar
